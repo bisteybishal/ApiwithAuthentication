@@ -1,0 +1,15 @@
+C:\Users\dell\source\repos\BlogProject\BlogProject_Service\bin\Debug\net5.0\BlogProject_Service.deps.json
+C:\Users\dell\source\repos\BlogProject\BlogProject_Service\bin\Debug\net5.0\BlogProject_Service.dll
+C:\Users\dell\source\repos\BlogProject\BlogProject_Service\bin\Debug\net5.0\ref\BlogProject_Service.dll
+C:\Users\dell\source\repos\BlogProject\BlogProject_Service\bin\Debug\net5.0\BlogProject_Service.pdb
+C:\Users\dell\source\repos\BlogProject\BlogProject_Service\bin\Debug\net5.0\BlogProjects_Models.dll
+C:\Users\dell\source\repos\BlogProject\BlogProject_Service\bin\Debug\net5.0\BlogProjects_Models.pdb
+C:\Users\dell\source\repos\BlogProject\BlogProject_Service\obj\Debug\net5.0\BlogProject_Service.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\BlogProject\BlogProject_Service\obj\Debug\net5.0\BlogProject_Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\BlogProject\BlogProject_Service\obj\Debug\net5.0\BlogProject_Service.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\BlogProject\BlogProject_Service\obj\Debug\net5.0\BlogProject_Service.AssemblyInfo.cs
+C:\Users\dell\source\repos\BlogProject\BlogProject_Service\obj\Debug\net5.0\BlogProject_Service.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\BlogProject\BlogProject_Service\obj\Debug\net5.0\BlogProject_Service.csproj.CopyComplete
+C:\Users\dell\source\repos\BlogProject\BlogProject_Service\obj\Debug\net5.0\BlogProject_Service.dll
+C:\Users\dell\source\repos\BlogProject\BlogProject_Service\obj\Debug\net5.0\ref\BlogProject_Service.dll
+C:\Users\dell\source\repos\BlogProject\BlogProject_Service\obj\Debug\net5.0\BlogProject_Service.pdb
